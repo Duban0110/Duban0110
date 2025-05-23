@@ -30,4 +30,9 @@ Además de la tecnología, me apasiona el **fútbol**, lo cual me ha enseñado e
 
 Estoy abierto a conectar con personas interesadas en el desarrollo de software y a participar en iniciativas que fomenten el aprendizaje y la innovación.
 
+### Conéctate conmigo:
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duban_1008/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/duban0110)
+
 ¡Gracias por visitar mi perfil!
