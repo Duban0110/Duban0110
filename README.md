@@ -33,6 +33,6 @@ Estoy abierto a conectar con personas interesadas en el desarrollo de software y
 ### Conéctate conmigo:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duban_1008/)
-![Static Badge](https://img.shields.io/badge/email?style=social&logo=%23EA4335)(mduban987@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:mduban987@gmail.com)
 
 ¡Gracias por visitar mi perfil!
